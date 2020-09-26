@@ -1,6 +1,8 @@
-device1,ios,10.3.21.5,user1,pass1
-device2,ios,10.3.21.6,user2,pass2
-device3,nx-os,10.3.21.7,user3,pass3
-device4,nx-os,10.3.21.8,user4,pass4
-device5,ios-xr,10.3.21.9,user5,pass5
-device6,ios-xr,10.3.21.10,user6,pass6
+d01-is,ios,Mgmt:10.3.21.5,Version 5.3.1,cisco,cisco
+d02-is,ios,Mgmt:10.3.21.6,Version 4.22.18,cisco,cisco
+d03-nx,nx-os,Mgmt:10.3.21.7,Version 5.3.1,cisco,cisco
+d04-nx,nx-os,Mgmt:10.3.21.8,Version 5.3.1r,cisco,cisco
+d05-xr,ios-xr,Mgmt:10.3.21.9,Version 4.16.9,cisco,cisco
+d06-xr,ios-xr,Mgmt:10.3.21.10,Version 5.3.0(2r),cisco,cisco
+d07-xe,ios-xe,Mgmt:10.3.21.19,Version 4.16.0,cisco,cisco
+d08-xe,ios-xe,Mgmt:10.3.21.22,Version 5.3.0,cisco,cisco
