@@ -1,4 +1,4 @@
-python# Read in the device information
+# Read in the device information
 file = open('dev-01-info', 'r')
 
 # Read in the device info one line at a time
