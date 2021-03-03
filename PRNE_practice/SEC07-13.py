@@ -1,4 +1,5 @@
 from pprint import pprint
+import os
 
 # Open the file and read single line of device informaiton
 file = open('devices', 'r')
